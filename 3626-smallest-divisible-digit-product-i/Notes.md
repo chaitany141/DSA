@@ -1,1 +1,1 @@
-<h2>smallest-divisible-digit-product-i Notes</h2><hr>[ Time taken: 2d 18hrs 40m 53s ]
+<h2>smallest-divisible-digit-product-i Notes</h2><hr>[ Time taken: 5d 2hrs 4m 32s ]
